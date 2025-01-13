@@ -22,6 +22,9 @@
   - ![image](https://github.com/user-attachments/assets/9e93b05e-0052-4bfe-b1f2-6f2d4dd981c8)
 
 ---
+### **GPT đánh giá Code Test: 9/10 điểm**
+
+---
 
 ### **Test Cases - Code:**
     @Test
