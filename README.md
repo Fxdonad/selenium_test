@@ -16,8 +16,8 @@
   - `testRegistrationWithExistingEmail`
   - `testRegistrationWithWeakPassword`
 - **Results:**
-   ![image](https://github.com/user-attachments/assets/dedc5716-7255-4e72-8340-a8a2e578e1d6)
-   ![image](https://github.com/user-attachments/assets/9e93b05e-0052-4bfe-b1f2-6f2d4dd981c8)
+  - ![image](https://github.com/user-attachments/assets/dedc5716-7255-4e72-8340-a8a2e578e1d6)
+  - ![image](https://github.com/user-attachments/assets/9e93b05e-0052-4bfe-b1f2-6f2d4dd981c8)
 
 ---
 
