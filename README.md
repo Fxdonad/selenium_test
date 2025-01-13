@@ -176,3 +176,7 @@
 
 ### **Link câu hỏi GPT:**
 https://chatgpt.com/share/6784f9a8-0370-800d-b052-e355c3fc3fe7
+
+### **Video Demo**
+https://github.com/user-attachments/assets/b0a2a8d4-c555-408b-865e-af4b2fc1da62
+
