@@ -1,5 +1,7 @@
 
-# Báo cáo kiểm thử: Login và Đăng ký trên trang "https://practice.automationtesting.in"
+# Báo cáo kiểm thử bằng Selenium
+
+### Nội dung test: Login và Đăng ký trên trang "https://practice.automationtesting.in"
 
 ### **Thông tin chung:**
 - **Trang web kiểm thử**: [https://practice.automationtesting.in](https://practice.automationtesting.in)
@@ -173,4 +175,4 @@
 ---
 
 ### **Link câu hỏi GPT:**
-[https://chatgpt.com/share/6784f9a8-0370-800d-b052-e355c3fc3fe7)
+https://chatgpt.com/share/6784f9a8-0370-800d-b052-e355c3fc3fe7
