@@ -173,4 +173,4 @@
 ---
 
 ### **Link câu hỏi GPT:**
-[https://chatgpt.com/share/6784f9a8-0370-800d-b052-e355c3fc3fe7]
+[https://chatgpt.com/share/6784f9a8-0370-800d-b052-e355c3fc3fe7)
