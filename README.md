@@ -15,12 +15,14 @@
   - `testInvalidLogin`
   - `testRegistrationWithExistingEmail`
   - `testRegistrationWithWeakPassword`
+- **Results:**
+   ![image](https://github.com/user-attachments/assets/dedc5716-7255-4e72-8340-a8a2e578e1d6)
+   ![image](https://github.com/user-attachments/assets/9e93b05e-0052-4bfe-b1f2-6f2d4dd981c8)
 
 ---
 
 ### **Test Cases - Code:**
-
- @Test
+    @Test
     public void testValidLogin() {
         try {
             System.out.println("Running Test: Valid Login");
@@ -89,7 +91,6 @@
 
 ### **Phân tích chi tiết các test case:**
 
----
 
 ### **1. Test Case: testValidLogin**
 - **Mục tiêu**: Kiểm tra chức năng đăng nhập hợp lệ với thông tin người dùng chính xác.
@@ -170,3 +171,6 @@
 - **Các test case còn lại (`testInvalidLogin`, `testRegistrationWithExistingEmail`, `testRegistrationWithWeakPassword`) đã Failed**: Đều liên quan đến việc xác minh các thông báo lỗi hoặc các phần tử không được tìm thấy chính xác.
 
 ---
+
+### **Link câu hỏi GPT:**
+[https://chatgpt.com/share/6784f9a8-0370-800d-b052-e355c3fc3fe7]
